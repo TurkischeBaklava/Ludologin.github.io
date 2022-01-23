@@ -1,13 +1,14 @@
 ---
-title: Jekyll Serif Theme
+title: Ludologin
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Where daily things turn into playable games
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Ludologin - 
+# design
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Where daily things turn into playable games. From general design principals to API scripting. Wide range of services in interactive industry.
