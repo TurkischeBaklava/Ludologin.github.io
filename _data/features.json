@@ -1,7 +1,7 @@
 [
   {
-    "title": "Game Design",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Game Development",
+    "description": "With experience developing complete end-to-end software solutions, we have the perfect blend of aesthetic and technical skills to deliver sophisticated and polished software projects.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -10,7 +10,7 @@
   },
   {
     "title": "Level Design",
-    "description": "All members of our team are certified accountants.",
+    "description": "Level design is the phase of game development that deals with creating the stages of the game. Our level design services complements the broad range of gaming support services available across through our other service lines.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Scripting Services",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Website Development",
+    "description": "Stunning and scalable websites and web applications built from scratch. Let us create your own cutting-edge web software to accelerate digital growth for your business.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
