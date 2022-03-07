@@ -4,5 +4,6 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+388a Regents Park Road, Office 3 And 4, London, Finchley Central, England, N3 2LN
+
 
